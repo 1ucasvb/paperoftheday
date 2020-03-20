@@ -1,4 +1,3 @@
-=======
 # Paper of the Day
 
 You know how we tend to save hundreds/thousands of papers in a "to read" folder for later?
@@ -13,4 +12,3 @@ your laziness is taken into account.
 Check the source for how to set it up.
 
 Happy reading!
->>>>>>> Initial commit
